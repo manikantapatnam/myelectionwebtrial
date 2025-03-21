@@ -31,7 +31,7 @@ A modern, interactive election dashboard built with Next.js and TypeScript that 
    ```bash
    npm run dev
    ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. Open https://mpelection.netlify.app/  in your browser
 
 ## Project Structure
 
